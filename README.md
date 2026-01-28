@@ -1,4 +1,4 @@
-sandbox
+tex test
 ===
 diffusion equation:  
 <img src="https://latex.codecogs.com/gif.latex?D\vec{\nabla}^2&space;\psi&space;=&space;\frac{\partial&space;\psi}{\partial&space;t}" title="D\nabla^2 \psi = \frac{\partial \psi}{\partial t}" />  
